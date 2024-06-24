@@ -1,0 +1,27 @@
+.courses-container {
+    margin: -40px auto 50px;
+    padding: 3px;
+    height: 350px;
+    background-color: #fff;
+    border-radius: 3px;
+}
+
+.courses-heading {
+    background-color: #5b3394;
+    color: #fff;
+    border-radius: 3px 3px 0px 0px;
+    padding: 5px 30px;
+}
+
+.course-list {
+    margin: 30px 40px;
+}
+
+.course-list li {
+    list-style-type: disc;
+    font-size: 14px;
+}
+
+.course-list li i{
+    margin-right: 4px;
+}
